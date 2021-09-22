@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Brand 1",
+    "createdDate": "2021-01-02 00:00:00.0000000",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Brand 2",
+    "createdDate": "2021-01-02 00:00:00.0000000",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "Brand 3",
+    "createdDate": "2021-01-02 00:00:00.0000000",
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "Brand 4",
+    "createdDate": "2021-01-02 00:00:00.0000000",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Brand 5",
+    "createdDate": "2021-01-02 00:00:00.0000000",
+    "status": true
+  }
+]
